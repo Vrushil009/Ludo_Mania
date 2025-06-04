@@ -4,7 +4,7 @@ A fully functional, browser-based **Ludo game** built using **HTML5, CSS3, and V
 
 ## 🌐 Live Preview
 
-`https://vrushil009.github.io/Ludo_Mania/`
+https://vrushil009.github.io/Ludo_Mania/
 
 ## 🚀 Features
 
@@ -33,13 +33,6 @@ A fully functional, browser-based **Ludo game** built using **HTML5, CSS3, and V
 
 2. **Open the project**:
 Simply open `index.html` in your preferred browser.
-
-## 🛠️ Tech Stack
-
-- **HTML5**
-- **CSS3**
-- **JavaScript (Vanilla)**
-- **JSON**
 
 ## 👨‍💻 Creator
 
